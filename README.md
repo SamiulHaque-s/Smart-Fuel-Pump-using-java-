@@ -143,11 +143,11 @@ The app window will open directly — no extra setup needed.
 
 ## Author
 
-[Your Name] — [Department], [University Name]
+M M SAMIUL HAQUE
 Course: Object Oriented Programming / Java
 
 ---
 
 ## License
 
-This project is for academic/educational purposes.
+This project is for academic/educational purposes. MIT LICENSE 
